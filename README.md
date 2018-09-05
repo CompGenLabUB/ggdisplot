@@ -12,4 +12,4 @@ library(ggdisplot)
 ggdisplot(iris, "Sepal.Length", "Sepal.Width", "Species")
 ```
 
-<img width="400px" src="https://rawgit.com/scastlara/ggdisplot/master/ggdisplot.png">
+<img width="400px" src="ggdisplot.png">
